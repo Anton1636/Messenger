@@ -1,4 +1,4 @@
-package com.hobermac.messenger
+package com.hobermac.mytelegram
 
 import org.junit.Test
 
